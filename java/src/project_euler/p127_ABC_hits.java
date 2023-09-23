@@ -4,7 +4,7 @@ import common.IntegerUtils;
 
 import java.util.*;
 
-public class P127_ABC_hits {
+public class p127_ABC_hits {
     private static int rad(int a){
         int res = 1;
         int a_orig = a;

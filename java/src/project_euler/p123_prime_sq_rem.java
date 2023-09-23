@@ -4,7 +4,7 @@ import common.IntegerUtils;
 
 import java.util.ArrayList;
 
-public class P123_prime_sq_rem {
+public class p123_prime_sq_rem {
     public static void main(String[] args) {
         int MAX = 1000_000;
         long N = 10_000_000_000L;

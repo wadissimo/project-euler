@@ -7,7 +7,7 @@ import java.io.PrintWriter;
 import java.util.ArrayList;
 import java.util.Arrays;
 
-public class P129_rep_unit {
+public class p129_rep_unit {
     int A(int n){
         long rem = 1;
         int max = 2000000;

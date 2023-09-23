@@ -5,7 +5,7 @@ import common.IntegerUtils;
 import java.util.ArrayList;
 import java.util.Arrays;
 
-public class P124_ord_radical {
+public class p124_ord_radical {
     public static void main(String[] args) {
         int N = 100_000;
         ArrayList<Integer> primes = new ArrayList<>();

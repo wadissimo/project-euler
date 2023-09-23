@@ -1,6 +1,6 @@
 package project_euler;
 
-public class P125_palindromic_sum {
+public class p125_palindromic_sum {
     public static void main(String[] args) {
 
         int MAX = 10_000;
